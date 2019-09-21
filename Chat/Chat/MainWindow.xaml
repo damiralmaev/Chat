@@ -1,0 +1,23 @@
+﻿<Window x:Class="Chat.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Chat"
+        mc:Ignorable="d"
+        Title="Чат. Сделано Дамир Алмаев Маратович!" Height="450" Width="800" Closing="Window_Closing">
+    <Grid>
+        <TextBox x:Name="tbip" HorizontalAlignment="Left" Height="23" Margin="85,13,0,0" TextWrapping="Wrap" Text="127.0.0.1" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Ip сервера:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbport" HorizontalAlignment="Left" Height="23" Margin="306,13,0,0" TextWrapping="Wrap" Text="908" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Порт сервера:" HorizontalAlignment="Left" Margin="213,9,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbnick" HorizontalAlignment="Left" Height="23" Margin="495,13,0,0" TextWrapping="Wrap" Text="Gladi" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Ваш ник:" HorizontalAlignment="Left" Margin="431,9,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbchat" AcceptsReturn="True" Margin="10,41,9.6,114" TextWrapping="Wrap" Text="" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Auto"/>
+        <TextBox x:Name="tbsend" Margin="10,0,147.6,10" TextWrapping="Wrap" Text="" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Auto" Height="99" VerticalAlignment="Bottom" KeyDown="Tbsend_KeyDown"/>
+        <Button x:Name="btsend" Content="Отправить" Margin="0,0,9.6,10" FontSize="24" HorizontalAlignment="Right" Width="133" Height="99" VerticalAlignment="Bottom" IsEnabled="False" Click="Btsend_Click"/>
+        <Button x:Name="btconnect" Content="Подключиться" HorizontalAlignment="Left" Margin="620,13,0,0" VerticalAlignment="Top" Width="121" Height="23" Click="Btconnect_Click"/>
+        <Button x:Name="btabout" Content="?" HorizontalAlignment="Left" Margin="746,13,0,0" VerticalAlignment="Top" Width="38" Height="23" Click="Btabout_Click"/>
+
+    </Grid>
+</Window>

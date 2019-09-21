@@ -1,0 +1,28 @@
+C:\Users\Точка роста\source\repos\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\Точка роста\source\repos\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\Точка роста\source\repos\server\server\bin\Debug\server.exe.config
+C:\Users\Точка роста\source\repos\server\server\bin\Debug\server.exe
+C:\Users\Точка роста\source\repos\server\server\bin\Debug\server.pdb
+C:\Users\Точка роста\source\repos\server\server\obj\Debug\server.exe
+C:\Users\Точка роста\source\repos\server\server\obj\Debug\server.pdb
+C:\Users\Дамир Хакер\Desktop\server\server\bin\Debug\server.exe.config
+C:\Users\Дамир Хакер\Desktop\server\server\bin\Debug\server.exe
+C:\Users\Дамир Хакер\Desktop\server\server\bin\Debug\server.pdb
+C:\Users\Дамир Хакер\Desktop\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\Дамир Хакер\Desktop\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\Дамир Хакер\Desktop\server\server\obj\Debug\server.exe
+C:\Users\Дамир Хакер\Desktop\server\server\obj\Debug\server.pdb
+C:\Users\Дамир\Desktop\ЧАТ\server\server\bin\Debug\server.exe.config
+C:\Users\Дамир\Desktop\ЧАТ\server\server\bin\Debug\server.exe
+C:\Users\Дамир\Desktop\ЧАТ\server\server\bin\Debug\server.pdb
+C:\Users\Дамир\Desktop\ЧАТ\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\Дамир\Desktop\ЧАТ\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\Дамир\Desktop\ЧАТ\server\server\obj\Debug\server.exe
+C:\Users\Дамир\Desktop\ЧАТ\server\server\obj\Debug\server.pdb
+C:\Users\Дамир\Documents\GitHub\Chat\Server\server\bin\Debug\server.exe.config
+C:\Users\Дамир\Documents\GitHub\Chat\Server\server\bin\Debug\server.exe
+C:\Users\Дамир\Documents\GitHub\Chat\Server\server\bin\Debug\server.pdb
+C:\Users\Дамир\Documents\GitHub\Chat\Server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\Дамир\Documents\GitHub\Chat\Server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\Дамир\Documents\GitHub\Chat\Server\server\obj\Debug\server.exe
+C:\Users\Дамир\Documents\GitHub\Chat\Server\server\obj\Debug\server.pdb
